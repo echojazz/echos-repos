@@ -43,3 +43,7 @@ h1 {
 iframe {
   border:5px;
 }
+
+#container {
+  width:100%;
+}
