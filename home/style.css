@@ -29,7 +29,7 @@ h1 {
   border:5px;
   border-color:#DBDBF5;
   background-color:#DBDBF5;
-  position:absolute;
+  position:relative;
   top:40px;
   text-align:center;
 }
