@@ -5,7 +5,9 @@
   border:5px;
   border-color:#00007A;
   background-color:#00007A;
-  position:relative;
+  position:absolute;
+  left:0;
+  right:0;
   text-align:center;
 }
 
