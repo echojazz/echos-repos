@@ -28,15 +28,15 @@ h1 {
 
 #content {
   margin:auto;
-  width:40%;
+  width:25%;
   height:auto;
   border:5px;
   border-color:#fffafa;
   background-color:#fffafa;
   position:relative;
-  top:130px;
+  top:100px;
   text-align:center;
-  padding:20px;
+  padding:10px;
   float:left;
 }
 
