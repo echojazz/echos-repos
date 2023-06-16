@@ -11,7 +11,7 @@
 }
 
 body {
-  background-image:"WO.png"
+  background-image:url("WO.png");
 }
     
 h1 {
