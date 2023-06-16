@@ -8,6 +8,7 @@
   position:absolute;
   left:0;
   right:0;
+  top:0;
   text-align:center;
 }
 
@@ -30,6 +31,6 @@ h1 {
   border-color:#DBDBF5;
   background-color:#DBDBF5;
   position:relative;
-  top:60px;
+  top:80px;
   text-align:center;
 }
