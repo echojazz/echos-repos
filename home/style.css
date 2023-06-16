@@ -22,11 +22,12 @@ h1 {
 
 #content {
   margin:auto;
-  width:30%;
-  height:30%;
+  width:50%;
+  height:50%;
   border:5px;
   border-color:#00007A;
   background-color:#00007A;
   position:relative;
   top:20px;
+  text-align:center;
 }
