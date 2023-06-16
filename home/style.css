@@ -1,7 +1,7 @@
 #title {
   margin:auto;
   width:100%;
-  padding:30px;
+  padding:20px;
   border:5px;
   border-color:#DBDBF5;
   background-color:#DBDBF5;
@@ -31,6 +31,6 @@ h1 {
   border-color:#DBDBF5;
   background-color:#DBDBF5;
   position:relative;
-  top:80px;
+  top:150px;
   text-align:center;
 }
