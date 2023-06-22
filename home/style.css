@@ -26,7 +26,7 @@ h1 {
 
 #slidecontainer {
   margin:auto;
-  width:30%;
+  width:100%;
   height:auto;
   border:5px;
   border-color:#fffafa;
@@ -35,7 +35,6 @@ h1 {
   top:100px;
   text-align:center;
   padding:10px;
-  float:left;
 }
 
 iframe {
