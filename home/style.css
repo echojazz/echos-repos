@@ -45,6 +45,15 @@ h1 {
 
 #container {
   width:100%;
+  margin-top:150px;
+  width:100%
+  height:auto;
+  border:5px;
+  border-color:#fffafa;
+  background-color:#fffafa;
+  position:relative;
+  text-align:left;
+  padding:10px;
 }
 
 #heading {
