@@ -26,13 +26,13 @@ h1 {
 
 #slidecontainer {
   margin:auto;
-  width:100%;
+  max-width:500px;
+  margin-top:300px;
   height:auto;
   border:5px;
   border-color:#fffafa;
   background-color:#fffafa;
   position:relative;
-  top:100px;
   text-align:center;
   padding:10px;
 }
